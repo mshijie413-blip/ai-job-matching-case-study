@@ -1,0 +1,5 @@
+[
+  {"job_id": "JOB-DEMO-001", "title": "AI 产品经理", "required_skills": ["product_design", "llm"], "optional_skills": ["rag", "python"], "description": "负责 AI 产品需求分析、效果验证和跨团队落地"},
+  {"job_id": "JOB-DEMO-002", "title": "Agent 应用工程师", "required_skills": ["python", "fastapi", "llm"], "optional_skills": ["rag", "postgresql"], "description": "开发大模型 Agent、服务接口和检索增强应用"},
+  {"job_id": "JOB-DEMO-003", "title": "前端工程师", "required_skills": ["react", "typescript"], "optional_skills": [], "description": "负责 React 与 TypeScript 前端开发"}
+]
